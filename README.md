@@ -41,3 +41,19 @@ To include the booking form:
 3. Locate and select **“Easy!Appointments”**.
 4. Optionally, adjust **visibility conditions** to control where the form appears.
 
+
+## License
+
+Code Licensed Under [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | Content Under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+
+---
+
+Website [alextselegidis.com](https://alextselegidis.com) &nbsp;&middot;&nbsp;
+GitHub [alextselegidis](https://github.com/alextselegidis) &nbsp;&middot;&nbsp;
+Twitter [@alextselegidis](https://twitter.com/AlexTselegidis)
+
+###### More Projects On Github
+###### ⇾ [Plainpad &middot; Self Hosted Note Taking App](https://github.com/alextselegidis/plainpad)
+###### ⇾ [Questionful &middot; Web Questionnaires Made Easy](https://github.com/alextselegidis/questionful)
+###### ⇾ [Integravy &middot; Service Orchestration At Your Fingertips](https://github.com/alextselegidis/integravy)
+
